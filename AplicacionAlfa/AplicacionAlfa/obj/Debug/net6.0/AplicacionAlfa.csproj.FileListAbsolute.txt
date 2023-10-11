@@ -1,0 +1,15 @@
+C:\Users\B09S202est\Documents\GitHub\POOCompartidoEmpresa\AplicacionAlfa\AplicacionAlfa\bin\Debug\net6.0\AplicacionAlfa.exe
+C:\Users\B09S202est\Documents\GitHub\POOCompartidoEmpresa\AplicacionAlfa\AplicacionAlfa\bin\Debug\net6.0\AplicacionAlfa.deps.json
+C:\Users\B09S202est\Documents\GitHub\POOCompartidoEmpresa\AplicacionAlfa\AplicacionAlfa\bin\Debug\net6.0\AplicacionAlfa.runtimeconfig.json
+C:\Users\B09S202est\Documents\GitHub\POOCompartidoEmpresa\AplicacionAlfa\AplicacionAlfa\bin\Debug\net6.0\AplicacionAlfa.dll
+C:\Users\B09S202est\Documents\GitHub\POOCompartidoEmpresa\AplicacionAlfa\AplicacionAlfa\bin\Debug\net6.0\AplicacionAlfa.pdb
+C:\Users\B09S202est\Documents\GitHub\POOCompartidoEmpresa\AplicacionAlfa\AplicacionAlfa\obj\Debug\net6.0\AplicacionAlfa.csproj.AssemblyReference.cache
+C:\Users\B09S202est\Documents\GitHub\POOCompartidoEmpresa\AplicacionAlfa\AplicacionAlfa\obj\Debug\net6.0\AplicacionAlfa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S202est\Documents\GitHub\POOCompartidoEmpresa\AplicacionAlfa\AplicacionAlfa\obj\Debug\net6.0\AplicacionAlfa.AssemblyInfoInputs.cache
+C:\Users\B09S202est\Documents\GitHub\POOCompartidoEmpresa\AplicacionAlfa\AplicacionAlfa\obj\Debug\net6.0\AplicacionAlfa.AssemblyInfo.cs
+C:\Users\B09S202est\Documents\GitHub\POOCompartidoEmpresa\AplicacionAlfa\AplicacionAlfa\obj\Debug\net6.0\AplicacionAlfa.csproj.CoreCompileInputs.cache
+C:\Users\B09S202est\Documents\GitHub\POOCompartidoEmpresa\AplicacionAlfa\AplicacionAlfa\obj\Debug\net6.0\AplicacionAlfa.dll
+C:\Users\B09S202est\Documents\GitHub\POOCompartidoEmpresa\AplicacionAlfa\AplicacionAlfa\obj\Debug\net6.0\refint\AplicacionAlfa.dll
+C:\Users\B09S202est\Documents\GitHub\POOCompartidoEmpresa\AplicacionAlfa\AplicacionAlfa\obj\Debug\net6.0\AplicacionAlfa.pdb
+C:\Users\B09S202est\Documents\GitHub\POOCompartidoEmpresa\AplicacionAlfa\AplicacionAlfa\obj\Debug\net6.0\AplicacionAlfa.genruntimeconfig.cache
+C:\Users\B09S202est\Documents\GitHub\POOCompartidoEmpresa\AplicacionAlfa\AplicacionAlfa\obj\Debug\net6.0\ref\AplicacionAlfa.dll
