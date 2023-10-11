@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Mondongo");
+            Console.WriteLine("Mondongo 2");
         }
     }
 }
