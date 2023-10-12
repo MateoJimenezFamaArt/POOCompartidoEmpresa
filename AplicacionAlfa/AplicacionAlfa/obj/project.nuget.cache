@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< Updated upstream
   "dgSpecHash": "eso/i2PZdQp8JlVsezHzT7VW23+KAjsz0eUWDt6UGmtBFQTNN8tNCAsj3Jd8bJGFnF9xy+daRGJ0mNmjVenwow==",
+=======
+  "dgSpecHash": "z1YFBn6OCpPu4nV+KXaSnk05Ha1m+sSn9JIvzUq5ntL0qEayMGnQjTpfptDrDHayQLukxX/qteIM6TrT/4mnng==",
+>>>>>>> Stashed changes
   "success": true,
   "projectFilePath": "C:\\Users\\ddkpl\\Documents\\GitHub\\POOCompartidoEmpresa\\AplicacionAlfa\\AplicacionAlfa\\AplicacionAlfa.csproj",
   "expectedPackageFiles": [],
