@@ -6,6 +6,8 @@
         {
             Console.WriteLine("Mondongo");
             Console.WriteLine("Mondongo 2");
+
+            Console.WriteLine("The current level is: " { });
         }
     }
 }
